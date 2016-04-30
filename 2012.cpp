@@ -1,7 +1,7 @@
 //
 // Created by zengjiean on 16-4-17.
 // 1523 2491
-//求解指定范围的素数问题 打表的方法计算出范围中的所有素数
+//求解指定范围的素数问题 用数组打表的方法计算出范围中的所有素数
 
 #include <iostream>
 #include <cmath>
