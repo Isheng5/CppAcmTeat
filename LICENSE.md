@@ -1,4 +1,4 @@
-he Star And Thank Author License (SATA)
+The Star And Thank Author License (SATA)
 
 Copyright (c) <Isheng5> <zengjiean@gmail.com>
 
