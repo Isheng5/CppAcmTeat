@@ -12,6 +12,7 @@
       <sourceFolder url="file://$MODULE_DIR$/2015.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/2011.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/tast.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/2016.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/2012.cpp" isTestSource="false" />
     </content>
