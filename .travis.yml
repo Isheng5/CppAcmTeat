@@ -1,0 +1,10 @@
+language: cpp
+compiler:
+  - gcc
+  
+  
+script: scons
+
+before_install:
+  - test -n $CC  && unset CC
+  - test -n $CXX && unset CXX
