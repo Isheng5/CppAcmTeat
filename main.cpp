@@ -1,4 +1,4 @@
-//tag
+//使用SSH连接GIT仓库
 //推送平台2016.5.1
 #include<iostream>
 using namespace std;
