@@ -4,11 +4,11 @@
 #include<iostream>
 using namespace std;
 
-int x002();
+int x007();
 
 int main(int argc, char const *argv[])
 {
-    x002();//通过
+    x007();//通过
 
     cout << "通过" << endl;
     return 0;
