@@ -4,7 +4,9 @@
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/2017.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/2016.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SimpleProject/x001.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SimpleProject/2018.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SimpleProject/x002.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/2014.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/2013.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/2012.cpp" isTestSource="false" />

@@ -4,11 +4,11 @@
 #include<iostream>
 using namespace std;
 
-int acm2018();
+int x002();
 
 int main(int argc, char const *argv[])
 {
-    acm2018();//通过
+    x002();//通过
 
     cout << "通过" << endl;
     return 0;
