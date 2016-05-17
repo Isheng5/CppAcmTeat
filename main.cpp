@@ -2,7 +2,7 @@
 //推送平台2016.5.1
 //
 #include<iostream>
-#define test c64
+#define test c17
 using namespace std;
 
 int test();
