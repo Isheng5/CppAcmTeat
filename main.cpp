@@ -2,13 +2,14 @@
 //推送平台2016.5.1
 //
 #include<iostream>
+#define test c64
 using namespace std;
 
-int poj2255();
+int test();
 
 int main(int argc, char const *argv[])
 {
-    poj2255();//通过
+    test();//通过
 
     cout << "通过" << endl;
     return 0;
