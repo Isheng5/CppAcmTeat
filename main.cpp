@@ -5,11 +5,11 @@
 #define test c17
 using namespace std;
 
-int test();
+void text1();
 
 int main(int argc, char const *argv[])
 {
-    test();//通过
+    text1();//通过
 
     cout << "通过" << endl;
     return 0;
