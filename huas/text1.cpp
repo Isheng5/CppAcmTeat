@@ -1,6 +1,6 @@
 //
 // Created by zengjiean on 16-7-10.
-//
+//周测第一道题目
 #include<iostream>
 #include<stack>
 using namespace std;
