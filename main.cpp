@@ -2,14 +2,14 @@
 //推送平台2016.5.1
 //
 #include<iostream>
-#define test c17
+#define test text
 using namespace std;
 
-void text1();
+int test();
 
 int main(int argc, char const *argv[])
 {
-    text1();//通过
+    test();//通过
 
     cout << "通过" << endl;
     return 0;

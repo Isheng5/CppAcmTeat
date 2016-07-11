@@ -4,19 +4,19 @@
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/2017.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/2016.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/SimpleProject/c17.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SimpleProject/x007.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/SimpleProject/c33.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SimpleProject/x006.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SimpleProject/x005.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SimpleProject/x004.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SimpleProject/x003.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SimpleProject/x002.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SimpleProject/x001.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SimpleProject/c40.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/SimpleProject/c64.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SimpleProject/c33.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SimpleProject/poj2255.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SimpleProject/c64.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SimpleProject/c17.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SimpleProject/c74.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/SimpleProject/x006.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SimpleProject/2018.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/2014.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/2013.cpp" isTestSource="false" />
@@ -29,6 +29,9 @@
       <sourceFolder url="file://$MODULE_DIR$/2009.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/2008.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/huas/text1.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/huas/text23.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/huas/text_f.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/huas/text.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/2015.cpp" isTestSource="false" />
     </content>
     <orderEntry type="sourceFolder" forTests="false" />

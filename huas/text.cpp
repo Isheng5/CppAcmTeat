@@ -3,6 +3,7 @@
 //通过测试，但未清晰
 #include <cstdio>
 #include <stack>
+#include <iostream>
 using namespace std;
 
 const int MAXN = 1000 + 10;
@@ -10,7 +11,7 @@ const int MAXN = 1000 + 10;
 int nst,target[MAXN],nsx;
 
 int text(){
- //   int nest_n=1;
+    int nest_n=1;
     scanf("%d", &nst);
     while(1) {
         if(nst == 0) break;
@@ -33,7 +34,7 @@ int text(){
                     s.pop();
                     B++;
                 }
-                else if (A <= nst) s.push(A++);
+                else if (A <= nst) {s.push(A++);}
                 else {
                     ok = 0;
                     break;

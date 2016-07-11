@@ -10,9 +10,6 @@ using namespace std;
 
 int text_f()
 {
-#ifdef LOCAL
-    freopen("in.txt", "r", stdin);
-#endif // LOCAL
     ios::sync_with_stdio(false);
     string s;
     bool flag;
