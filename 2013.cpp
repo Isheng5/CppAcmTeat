@@ -16,7 +16,7 @@ void StarPantao(){
 int acm2013(){
     StarPantao();
     int n;
-    while(cin >> n && n != EOF ){
+    while(cin >> n && n != -1 ){
         cout << Pantao[n-1] << endl;
     }
     return 0;

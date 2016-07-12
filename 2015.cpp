@@ -2,6 +2,7 @@
 // Created by zengjiean on 16-4-19.
 //
 #include<iostream>
+#include<cstdio>
 using namespace std;
 
 int acm2015(){

@@ -8,7 +8,7 @@ int N2016[100];
 
 int acm2016(){
     int n;
-    while (cin >> n && n != EOF){
+    while (cin >> n && n != -1){
         if(n == 0) continue;
         int min=0 ,swap;
         for(int i = 0;i < n;i++){

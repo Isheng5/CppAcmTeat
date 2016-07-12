@@ -18,7 +18,7 @@ void cal2009(){
 
 int acm2009(){
     int n=0;
-    while (cin >> n && n!= EOF){
+    while (cin >> n && n!= -1){
         cal2009();
         cout << m2009[n-1] << endl;
     }

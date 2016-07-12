@@ -11,6 +11,6 @@ int main(int argc, char const *argv[])
 {
     test();//通过
 
-    cout << "通过" << endl;
+    cout << "pass" << endl;
     return 0;
 }

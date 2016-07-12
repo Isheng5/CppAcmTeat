@@ -2,6 +2,7 @@
 // Created by zengjiean on 16-4-19.
 //
 #include <iostream>
+#include <cstdio>
 #include<iomanip>
 using namespace std;
 

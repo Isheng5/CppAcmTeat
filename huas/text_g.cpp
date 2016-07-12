@@ -70,7 +70,7 @@ G_Dfs text(g_maxn-5,g_maxn-5);
 
 int text_g(){
     int x,y;
-    while(scanf("%d%d",&x,&y) == 2 && x && y){
+    while(scanf("%d %d",&x,&y) == 2 && x && y){
         text.G_Dfs_mn(x,y);
         text.G_Dfs_Set();
         for (int i = 1; i <= text.n; i++) {

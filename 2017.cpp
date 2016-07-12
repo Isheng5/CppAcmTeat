@@ -2,7 +2,9 @@
 // Created by zengjiean on 16-4-20.
 //
 #include<iostream>
-#include<string>
+#include<cstring>
+#include <cstdio>
+
 using namespace std;
 int acm2017() {
     int n;
