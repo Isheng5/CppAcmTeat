@@ -9,8 +9,8 @@ using namespace std;
 //       编写递归
 //-----------------------------
 //
-int gcd(int x,int y){
-    return y == 0 ? x : gcd(y, x % y);
+int cgcd(int x,int y){
+    return y == 0 ? x : cgcd(y, x % y);
 }
 
 int Ackermanns(int i,int j){//阿克曼函数
@@ -21,7 +21,7 @@ int Ackermanns(int i,int j){//阿克曼函数
 void cAckermanns(){
     int m,n;
     while(cin>>m>>n){
-        cout << gcd(m,n) << endl;
+        cout << cgcd(m,n) << endl;
     }
 }
 
