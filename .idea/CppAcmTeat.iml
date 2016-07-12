@@ -34,6 +34,7 @@
       <sourceFolder url="file://$MODULE_DIR$/huas/text23.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/huas/text_f.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/huas/text1.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data Structure and Algorithm/RecursiveAlgorithm.cpp" isTestSource="false" />
     </content>
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module-library">

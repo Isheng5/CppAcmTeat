@@ -2,7 +2,7 @@
 //推送平台2016.5.1
 //
 #include<iostream>
-#define test text_g
+#define test Recursive
 using namespace std;
 
 int test();
