@@ -2,7 +2,7 @@
 //推送平台2016.5.1
 //
 #include<iostream>
-#define test text
+#define test text_g
 using namespace std;
 
 int test();

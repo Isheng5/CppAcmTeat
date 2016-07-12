@@ -28,8 +28,9 @@
       <sourceFolder url="file://$MODULE_DIR$/main.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/2009.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/2008.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/huas/text1.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/huas/text_g.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/huas/text23.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/huas/text1.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/huas/text_f.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/huas/text.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/2015.cpp" isTestSource="false" />
