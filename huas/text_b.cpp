@@ -55,6 +55,9 @@ int text_b(){
     int n,k;
 //    freopen("in.txt", "r", stdin);
     while(scanf("%d %d",&n,&k)!=EOF){
+        if(n >= k) {
+            cout << k-n << endl;
+            continue;}
         while(!t_b.empty())
             t_b.pop();
         t_b.push(n);
