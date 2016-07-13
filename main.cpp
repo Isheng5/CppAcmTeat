@@ -9,7 +9,9 @@ int test();
 
 int main(int argc, char const *argv[])
 {
+    //<editor-fold desc="程序运行的主入口">
     test();//通过
+    //</editor-fold>
 
     cout << "pass" << endl;
     return 0;
