@@ -4,6 +4,7 @@
 #include <iostream>
 #include <cmath>
 #include <numeric>
+#include <algorithm>
 
 #define Case cproduct
 using namespace std;
@@ -14,7 +15,10 @@ using namespace std;
 
 template <class T>
 void permutations(T list[],int k,int m){
-
+    do{
+        copy(list,list+m+1,ostreambuf_iterator<T>(cout));
+        cout<<endl;
+    }while(next_permutation(list,list+m+1));
 }
 
 template <class T>
