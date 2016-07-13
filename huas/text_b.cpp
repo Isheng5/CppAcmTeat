@@ -25,15 +25,17 @@ text_bb::text_bb(int n,int m) {
 
 queue<int> t_b;
 
-void b_queue(int k){
-    while(t_b)
+void b_queue(int k,text_bb g){
+    while(g.date != k){
+
+    }
 }
 
 int text_b(){
     int n,k;
     while(cin>>n>>k){
         text_bb t_g(n,0);
-        b_queue(k);
+        b_queue(k,t_g);
         cout << t_g.setup <<endl;
     }
 }
