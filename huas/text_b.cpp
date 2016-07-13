@@ -4,6 +4,8 @@
 // Coding是世界上最有趣的事情！
 // 主要功能：求追牛的问题
 //没注意内存泄漏，倒霉
+//这个题目一直提交不过去，好tm倒霉，过会叫一个人帮我看看。。。。。。。
+//我感觉我要挂了。
 #include <iostream>
 #include <cstdio>
 #include <queue>
@@ -56,7 +58,7 @@ int text_b(){
 //    freopen("in.txt", "r", stdin);
     while(scanf("%d %d",&n,&k)!=EOF){
         if(n >= k) {
-            cout << k-n << endl;
+            cout << n-k << endl;
             continue;}
         while(!t_b.empty())
             t_b.pop();
