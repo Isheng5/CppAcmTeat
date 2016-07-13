@@ -3,12 +3,39 @@
 //
 #include <iostream>
 #include <cmath>
-#define Case cAckermanns
+#include <numeric>
+
+#define Case cproduct
 using namespace std;
 //-----------------------------
 //       编写递归
 //-----------------------------
 //
+
+template <class T>
+void permutations(T list[],int k,int m){
+
+}
+
+template <class T>
+T product(T a[],int n){
+    T theProduct = 1;
+    return accumulate(a,a+n,theProduct,multiplies<T>());
+}
+
+int cproduct(){
+    double css5[5]={1.2,2.3,2.6,6.3,9.3};
+    cout<<product(css5,5)<<endl;
+}
+
+int cg(int n){
+    if(n == 1) return n;
+    else{
+        cg(n-1);
+
+    }
+}
+
 int cgcd(int x,int y){
     return y == 0 ? x : cgcd(y, x % y);
 }
