@@ -103,6 +103,7 @@ void d_cout(int x,int y){
             }
         }
 //        cout << endl;
+
     }
 //    cout << endl;
     cout << min*11 <<endl;
