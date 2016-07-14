@@ -10,6 +10,7 @@
       <sourceFolder url="file://$MODULE_DIR$/2012.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/2011.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/2010.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SimpleProject/c17.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SimpleProject/x007.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SimpleProject/c33.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SimpleProject/x005.cpp" isTestSource="false" />
@@ -18,9 +19,8 @@
       <sourceFolder url="file://$MODULE_DIR$/SimpleProject/x002.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SimpleProject/x001.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SimpleProject/c40.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/SimpleProject/poj2255.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SimpleProject/c64.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/SimpleProject/c17.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SimpleProject/poj2255.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SimpleProject/c74.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SimpleProject/x006.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SimpleProject/2018.cpp" isTestSource="false" />
@@ -29,11 +29,12 @@
       <sourceFolder url="file://$MODULE_DIR$/main.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/2009.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/2008.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/huas/text23.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/huas/text_f.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/huas/text_g.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/huas/text_j.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/huas/text_c.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/huas/text.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/huas/text23.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/huas/text_j.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/huas/text_f.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/huas/text_b.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/huas/text1.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Data Structure and Algorithm/RecursiveAlgorithm.cpp" isTestSource="false" />

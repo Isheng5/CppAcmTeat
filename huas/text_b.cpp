@@ -10,7 +10,6 @@
 #include <cstdio>
 #include <queue>
 #define b_max 100010
-//#include <stack>
 using namespace std;
 
 queue<int> t_b;
