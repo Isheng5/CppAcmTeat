@@ -29,16 +29,19 @@
       <sourceFolder url="file://$MODULE_DIR$/main.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/2009.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/2008.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/huas/text_g.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/huas/text23.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/huas/text_c.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/huas/text.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/huas/text_f.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/huas/text_d.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/huas/text23.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/huas/text_b.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/huas/text_g.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/huas/text_n.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/huas/text_j.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/huas/text1.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/huas/text_b.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/huas/bisai/week1_F.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/huas/bisai/week1_D.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/huas/bisai/week1_B.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Data Structure and Algorithm/RecursiveAlgorithm.cpp" isTestSource="false" />
     </content>
     <orderEntry type="sourceFolder" forTests="false" />
