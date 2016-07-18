@@ -7,7 +7,7 @@
 #include <cstdio>
 #include <iostream>
 using namespace std;
-#define w2max 20
+#define w2max 1000000
 
 int Week2TextA[w2max],WeekText5[w2max];//建节点统计表。
 
