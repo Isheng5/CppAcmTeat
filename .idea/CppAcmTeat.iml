@@ -34,9 +34,11 @@
       <sourceFolder url="file://$MODULE_DIR$/huas/text.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/huas/text_b.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/huas/text_d.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/huas/week2/week2_text_F.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/huas/week2/week2_text_B.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/huas/week2/week2_text_G.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/huas/week2/week2_text_C.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/huas/week2/week2_text_D.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/huas/week2/week2_text_A.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/huas/text23.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/huas/text_n.cpp" isTestSource="false" />
