@@ -10,19 +10,19 @@
       <sourceFolder url="file://$MODULE_DIR$/2012.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/2011.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/2010.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SimpleProject/c17.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SimpleProject/x007.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/SimpleProject/x006.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SimpleProject/c33.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SimpleProject/x005.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SimpleProject/x004.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SimpleProject/x003.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SimpleProject/x002.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SimpleProject/x001.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SimpleProject/c40.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/SimpleProject/c33.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/SimpleProject/poj2255.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SimpleProject/c64.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/SimpleProject/c17.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SimpleProject/poj2255.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SimpleProject/c74.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SimpleProject/x006.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SimpleProject/2018.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/CMakeLists.txt" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/tem/XianDuanShu.h" isTestSource="false" />
@@ -33,16 +33,18 @@
       <sourceFolder url="file://$MODULE_DIR$/huas/text_g.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/huas/text_c.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/huas/text.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/huas/text_b.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/huas/text_f.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/huas/text_d.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/huas/week3/G.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/huas/text_b.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/huas/bisai/week1_F.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/huas/bisai/week1_D.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/huas/bisai/week1_B.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/huas/text23.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/huas/text_n.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/huas/text_j.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/huas/text_f.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/huas/week3/G.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/huas/week3/A.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/huas/week3/F.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/huas/week2/wee2_text_L.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/huas/week2/week2_text_B.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/huas/week2/week2_e.cpp" isTestSource="false" />
